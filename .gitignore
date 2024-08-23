@@ -162,3 +162,7 @@ cython_debug/
 #.idea/
 
 .jupyter 
+
+
+# Ignore data
+data/
